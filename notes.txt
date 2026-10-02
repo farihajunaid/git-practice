@@ -1,0 +1,1 @@
+Version control allows independent feature brances.
