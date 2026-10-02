@@ -1,1 +1,5 @@
+ HEAD
 Hello from the Main Branch updated!
+
+Hello from the conflict Branch!
+conflict-test
